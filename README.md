@@ -1,0 +1,1 @@
+To set up python environment run ```uv sync```
